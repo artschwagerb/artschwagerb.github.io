@@ -1,5 +1,6 @@
 ---
 title: 'My Desk'
+permalink: /desk/
 ---
 
 I am using the MacBook Pro 14 as my daily driver, and the M1 when I am away from my desk.
