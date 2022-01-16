@@ -7,6 +7,18 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+    <style type="text/css">
+        .my-list {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+        
+        .my-list li {
+            padding: 0 0 0px 15px;
+        }
+    </style>
+
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -33,13 +45,17 @@
         </section>
 
         <aside id="sidebar">
-            <a href="/">Posts</a>
-            <a href="/desk">My Desk</a>
-            <a href="/projects">Projects</a>
+            <ul class="my-list">
+                <li><a href="/">Posts</a></li>
+                <li><a href="/desk">My Desk</a></li>
+                <li><a href="/projects">Projects</a></li>
+            </ul>
             
-            <a href="https://twitter.com/artschwagerb">Twitter</a>
-            <a href="https://github.com/artschwagerb">Github</a>
-            <a href="https://www.linkedin.com/in/brianartschwager/">LinkedIn</a>
+            <ul class="my-list">
+                <li><a href="https://twitter.com/artschwagerb">Twitter</a></li>
+                <li><a href="https://github.com/artschwagerb">Github</a></li>
+                <li><a href="https://www.linkedin.com/in/brianartschwager/">LinkedIn</a></li>
+            </ul>
         </aside>
       </div>
     </div>
