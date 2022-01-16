@@ -29,7 +29,6 @@
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
-        <a href="https://twitter.com/artschwagerb" class="button"><small>Follow me on</small> Twitter</a>
       </div>
     </header>
 
@@ -49,6 +48,14 @@
               <small>Download</small>
               .tar.gz file
             </a>
+          {% endif %}
+
+          {% if site.twitter_url %}
+            <a href="https://twitter.com/artschwagerb" class="button"><small>Follow me on</small> Twitter</a>
+          {% endif %}
+
+          {% if site.linkedin_url %}
+            <a href="https://twitter.com/artschwagerb" class="button"><small>Follow me on</small> Twitter</a>
           {% endif %}
 
           {% if site.github.is_project_page %}
