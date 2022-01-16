@@ -2,7 +2,11 @@
 title: 'Brian Artschwager'
 ---
 
-## Current Projects
- - Active Directory to Okta Migration
- - On-Premise Servers and Google Cloud to Azure Migration
- - Terraform all the Things
+<h2>Posts</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

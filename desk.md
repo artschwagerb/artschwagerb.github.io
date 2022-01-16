@@ -3,8 +3,6 @@ title: 'My Desk'
 permalink: /desk/
 ---
 
-I am using the MacBook Pro 14 as my daily driver, and the M1 when I am away from my desk.
-
 ## My Desk
 
 These are some of the items I use on a daily basis.
