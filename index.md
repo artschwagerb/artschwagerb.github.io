@@ -3,6 +3,6 @@ title: 'Brian Artschwager'
 ---
 
 ## Current Projects
- - Okta
- - Azure Migration
- - Terraform
+ - Active Directory to Okta Migration
+ - On-Premise Servers and Google Cloud to Azure Migration
+ - Terraform all the Things
