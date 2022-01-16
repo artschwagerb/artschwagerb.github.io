@@ -3,9 +3,33 @@ title: 'My Desk'
 permalink: /desk/
 ---
 
-## My Desk
+# My Desk
 
-These are some of the items I use on a daily basis.
+Looking at my desk, here are some of the items I use on a daily basis.
+
+## Desktop
+
+Custom Build running Windows 10 with VMware Workstation
+
+| Item                        | Description                  |
+| :-------------------------- | :--------------------------- |
+| Processor | [Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0 GHz](https://amzn.to/2WNyeL9) |
+| Motherboard | [Asus ROG Maximus XI Hero (Wi-Fi) Z390](https://amzn.to/34POa3J)
+| Memory | [Corsair Vengeance LPX 64GB DDR4 DRAM 3200MHz C16 Memory Kit](https://amzn.to/3pn5Ew4)
+| Graphics Card | [ASUS ROG STRIX GeForce RTX 2080TI-O11G Overclocked 11G GDDR6](https://amzn.to/3aPn7cC) |
+| SSD | [Samsung 970 EVO Plus 1TB M.2](https://amzn.to/2MciVcN) |
+| Case | [Corsair Carbide Series Air 540](https://amzn.to/3aKubHo) |
+| CPU Cooler | [Corsair H100i Pro](https://amzn.to/34NNw73) |
+| USB C Ethernet Adapter | [uni RJ45 to USB C Gigabit Ethernet Adapter](https://amzn.to/38WhLJU)
+
+## Laptops
+2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB)
+
+2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
+
+2016 MacBook Pro 15 inch (i7, 16GB, 512GB)
+
+## Accessories
 
 | Item | Description |
 | :--- |:----------- |
@@ -21,25 +45,3 @@ These are some of the items I use on a daily basis.
 | Keyboard Wrist Cushion | [Imak A10161 Keyboard Wrist Cushion, Gray](https://amzn.to/3mWzuWE) |
 | USB C Hub | [uni USB Type C 8 in 1 Hub](https://www.amazon.com/gp/product/B07Q6YS7W2) |
 | Xbox One Wireless Controller | [Xbox One Special Edition Midnight Forces Wireless Controller](https://amzn.to/3hzHo7g)
-
-### Desktop
-
-Custom Build running Windows 10 with VMware Workstation
-
-| Item                        | Description                  |
-| :-------------------------- | :--------------------------- |
-| Processor | [Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0 GHz](https://amzn.to/2WNyeL9) |
-| Motherboard | [Asus ROG Maximus XI Hero (Wi-Fi) Z390](https://amzn.to/34POa3J)
-| Memory | [Corsair Vengeance LPX 64GB DDR4 DRAM 3200MHz C16 Memory Kit](https://amzn.to/3pn5Ew4)
-| Graphics Card | [ASUS ROG STRIX GeForce RTX 2080TI-O11G Overclocked 11G GDDR6](https://amzn.to/3aPn7cC) |
-| SSD | [Samsung 970 EVO Plus 1TB M.2](https://amzn.to/2MciVcN) |
-| Case | [Corsair Carbide Series Air 540](https://amzn.to/3aKubHo) |
-| CPU Cooler | [Corsair H100i Pro](https://amzn.to/34NNw73) |
-| USB C Ethernet Adapter | [uni RJ45 to USB C Gigabit Ethernet Adapter](https://amzn.to/38WhLJU)
-
-### Laptops
-2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB)
-
-2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
-
-2016 MacBook Pro 15 inch (i7, 16GB, 512GB)
