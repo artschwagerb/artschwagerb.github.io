@@ -66,9 +66,10 @@
       <div class="inner clearfix">
         <section id="main-content">
             <div class="post-header">
-                <h2 id="post-title">{{ page.title }}</h2>
-                <div id="post-description">{{ page.description }}</div>
                 <div id="post-date">{{ page.date }}</div>
+                <h2 id="post-title">{{ page.title }}</h2>
+                <div id="post-description" style="display: none;">{{ page.description }}</div>
+                
             </div>
             <div class="post-content">
                 {{ content }}
