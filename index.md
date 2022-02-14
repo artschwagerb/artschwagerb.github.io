@@ -1,17 +1,15 @@
 ---
+layout: default
 title: 'Brian Artschwager'
 ---
 
 Senior Systems Engineer on the IT Team at Stack Overflow.
 
-<h2>Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }} <small>({{ post.date | date: '%B %d, %Y' }})</small></a>
-    </li>
-  {% endfor %}
-</ul>
+<h1>Posts</h1>
+{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: '%B %d, %Y' }})</small></h2>
+  <p>{{ post.description }}</p>
+{% endfor %}
 
 ---
 Disclaimers:
