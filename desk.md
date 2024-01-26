@@ -10,7 +10,9 @@ Looking at my desk, here are some of the items I use on a daily basis.
 
 ## Desktop
 
-Custom Build running Windows 10 with VMware Workstation
+### Gaming Desktop
+
+Custom Build running Windows 10.  Mostly used for playing games.
 
 | Item                        | Description                  |
 | :-------------------------- | :--------------------------- |
@@ -23,20 +25,26 @@ Custom Build running Windows 10 with VMware Workstation
 | CPU Cooler | [Corsair H100i Pro](https://amzn.to/34NNw73) |
 | USB C Ethernet Adapter | [uni RJ45 to USB C Gigabit Ethernet Adapter](https://amzn.to/38WhLJU)
 
+### Virtualized Jumpbox
+
+I have moved my daily driver windows machine to a virtual machine running in my Homelab.
+
 ## Laptops
-2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB)
 
-2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
-
-2016 MacBook Pro 15 inch (i7, 16GB, 512GB)
+- 2023 MacBook Pro 14 inch (M3 Max, 64GB, 1TB)
+- 2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB)
+- ~~2020 MacBook Pro 13 inch (M1, 16GB, 1TB)~~
+- ~~2016 MacBook Pro 15 inch (i7, 16GB, 512GB)~~
 
 ## Accessories
 
 | Item | Description |
 | :--- |:----------- |
 | 3 Monitors | [Dell 27-Inch Monitor (S2719DGF)](https://amzn.to/3aTSfYm) |
+| Monitor | Dell 34-Inch Ultrawide U3419W |
 | USB Speakerphone | [Jabra 410 Corded Speakerphone](https://amzn.to/3hkUYLM) |
-| Webcam | [Logitech C922x Pro Stream](https://amzn.to/3aLruFD) |
+| Microphone | [Shure MV7 USB Microphone](https://www.amazon.com/Shure-Microphone-Podcasting-Voice-Isolating-Technology/dp/B08G7RG9ML/) |
+| Webcam | [Logitech StreamCam](https://www.amazon.com/Logitech-Streamcam-Streaming-YouTube-Graphite/dp/B07TZT4Q89/) |
 | Headphones | [Bose QuietComfort 35 II Wireless Bluetooth Headphones](https://amzn.to/37UJ9ZP) |
 | Headphones | [Corsair Void RGB Elite Wireless Premium Gaming Headset](https://amzn.to/3aYRJbZ) |
 | Speakers | [Bose Companion 2 Series III Multimedia Speakers](https://amzn.to/38C77rP) |
@@ -45,4 +53,5 @@ Custom Build running Windows 10 with VMware Workstation
 | Keyboard | [RK ROYAL KLUDGE 115 Carbon PBT Side Front Printed Keycaps](https://www.amazon.com/gp/product/B08397XX5G) |
 | Keyboard Wrist Cushion | [Imak A10161 Keyboard Wrist Cushion, Gray](https://amzn.to/3mWzuWE) |
 | USB C Hub | [uni USB Type C 8 in 1 Hub](https://www.amazon.com/gp/product/B07Q6YS7W2) |
+| Stream Deck | [Elgato Stream Deck MK.2](https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G/) |
 | Xbox One Wireless Controller | [Xbox One Special Edition Midnight Forces Wireless Controller](https://amzn.to/3hzHo7g)
