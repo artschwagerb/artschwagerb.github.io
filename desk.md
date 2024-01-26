@@ -54,4 +54,6 @@ I have moved my daily driver windows machine to a virtual machine running in my 
 | Keyboard Wrist Cushion | [Imak A10161 Keyboard Wrist Cushion, Gray](https://amzn.to/3mWzuWE) |
 | USB C Hub | [uni USB Type C 8 in 1 Hub](https://www.amazon.com/gp/product/B07Q6YS7W2) |
 | Stream Deck | [Elgato Stream Deck MK.2](https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G/) |
-| Xbox One Wireless Controller | [Xbox One Special Edition Midnight Forces Wireless Controller](https://amzn.to/3hzHo7g)
+| Key Light | [Elgato Key Light](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G/) |
+| Xbox One Wireless Controller | [Xbox One Special Edition Midnight Forces Wireless Controller](https://amzn.to/3hzHo7g) |
+| Chair | Herman Miller Aeron |
