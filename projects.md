@@ -5,6 +5,12 @@ permalink: /projects/
 ---
 
 # Projects
- - Active Directory to Okta Migration
- - On-Premise Servers and Google Cloud to Azure Migration
+ - Okta
+   - Active Directory
+   - Google Workspace
+ - Cloud Migration to Azure
  - Terraform all the Things
+   - Azure
+   - Google Cloud
+   - Okta
+ - MDM Migration (Workspace ONE to Kandji and Intune)
