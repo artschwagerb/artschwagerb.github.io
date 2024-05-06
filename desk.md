@@ -40,6 +40,7 @@ I have moved my daily driver windows machine to a virtual machine running in my 
 
 | Item | Description |
 | :--- |:----------- |
+| Monitor | [LG C3 OLED 42-Inch](https://www.amazon.com/LG-42-Inch-Processor-AI-Powered-OLED42C3PUA/dp/B0BVXK9N6X) |
 | 3 Monitors | [Dell 27-Inch Monitor (S2719DGF)](https://amzn.to/3aTSfYm) |
 | Monitor | Dell 34-Inch Ultrawide U3419W |
 | USB Speakerphone | [Jabra 410 Corded Speakerphone](https://amzn.to/3hkUYLM) |
