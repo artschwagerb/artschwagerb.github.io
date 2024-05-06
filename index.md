@@ -3,7 +3,7 @@ layout: default
 title: 'Brian Artschwager'
 ---
 
-Senior Systems Engineer on the IT Team at Stack Overflow.
+Staff Systems Engineer at Stack Overflow.
 
 <h1>Posts</h1>
 {% for post in site.posts %}
