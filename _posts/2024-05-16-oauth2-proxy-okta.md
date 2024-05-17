@@ -25,7 +25,7 @@ Code: https://github.com/oauth2-proxy/oauth2-proxy
 There are multiple ways to deploy OAuth2 Proxy, but here are the important bits to get it working with Okta.
 
 ### Environment Variables
-We are deploying in Kubernetes, using ConfigMaps and Secrets.
+We are deploying in Kubernetes, using ConfigMaps and Secrets to manage our Environment Variables.
 
 Store in Configmap:
 
@@ -51,3 +51,8 @@ Store in Secret:
 https://oauth2-proxy.github.io/oauth2-proxy/configuration/overview
 
     python -c 'import os,base64; print(base64.urlsafe_b64encode(os.urandom(32)).decode())'
+
+## Exposing the Proxy
+Point your Ingress to OAuth Proxy or expose port 4180 to the users.
+
+Users going to https://myapp.com will hit OAuth2 Proxy, which will proxy them to the application OAUTH2_PROXY_UPSTREAMS.
