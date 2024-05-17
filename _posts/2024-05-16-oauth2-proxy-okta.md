@@ -7,9 +7,11 @@ date: "2022-01-15"
 
 **Hello world**, this is my first Jekyll blog post.
 
-Do you have a pesky application that doesnt support authentication?  Do you have Okta?  Lets use Okta.
+Do you have an application that doesnt support authentication?
 
-## OAuth2 Proxy
+Do you have Okta?  Lets use Okta.
+
+## Introducing OAuth2 Proxy
 
 """
 A reverse proxy and static file server that provides authentication using Providers (Google, Keycloak, GitHub and others) to validate accounts by email, domain or group.
