@@ -13,8 +13,8 @@ Do you have Okta?  Lets use Okta.
 
 > A reverse proxy and static file server that provides authentication using Providers (Google, Keycloak, GitHub and others) to validate accounts by email, domain or group.
 
-Documentation: [https://oauth2-proxy.github.io/oauth2-proxy/](https://oauth2-proxy.github.io/oauth2-proxy/)
-Code: [https://github.com/oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- Documentation: [https://oauth2-proxy.github.io/oauth2-proxy/](https://oauth2-proxy.github.io/oauth2-proxy/)
+- Code: [https://github.com/oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ## Configuration
 
@@ -58,3 +58,4 @@ python -c 'import os,base64; print(base64.urlsafe_b64encode(os.urandom(32)).deco
 Point your Ingress to OAuth Proxy or expose port 4180 to the users.
 
 Users going to https://myapp.com will hit OAuth2 Proxy, which will proxy them to the application OAUTH2_PROXY_UPSTREAMS.
+
