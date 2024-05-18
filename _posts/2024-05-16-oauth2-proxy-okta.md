@@ -5,8 +5,6 @@ description: "Using OAuth2 Proxy with Okta"
 date: "2022-01-15"
 ---
 
-**Hello world**, this is my first Jekyll blog post.
-
 Do you have an application that doesnt support authentication?
 
 Do you have Okta?  Lets use Okta.
