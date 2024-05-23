@@ -8,11 +8,23 @@ permalink: /desk/
 
 Looking at my desk, here are some of the items I use on a daily basis.
 
-## Desktop
+## Laptops
 
-### Gaming Desktop
+For work, I use a 2023 MacBook Pro 14 inch (M3 Max, 64GB, 1TB) connected to external monitors.
 
-Custom Build running Windows 10.  Mostly used for playing games.
+I use a 2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB) as a personal laptop.
+
+Either laptop can be connected to my usb-c hub, and external monitors for a nice desk experience.
+
+My past work laptops:
+- 2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
+- 2016 MacBook Pro 15 inch (i7, 16GB, 512GB)
+
+## Gaming Desktop
+
+When I find time to play games, I use a custom built desktop running Windows 11.
+
+The desktop is connected to the same monitors, and I swap a usb hub with my keyboard/mouse/microphone/webcam between devices.
 
 | Item                        | Description                  |
 | :-------------------------- | :--------------------------- |
@@ -23,18 +35,6 @@ Custom Build running Windows 10.  Mostly used for playing games.
 | SSD | [Samsung 970 EVO Plus 1TB M.2](https://amzn.to/2MciVcN) |
 | Case | [Corsair Carbide Series Air 540](https://amzn.to/3aKubHo) |
 | CPU Cooler | [Corsair H100i Pro](https://amzn.to/34NNw73) |
-| USB C Ethernet Adapter | [uni RJ45 to USB C Gigabit Ethernet Adapter](https://amzn.to/38WhLJU)
-
-### Virtualized Jumpbox
-
-I have moved my daily driver windows machine to a virtual machine running in my Homelab.
-
-## Laptops
-
-- 2023 MacBook Pro 14 inch (M3 Max, 64GB, 1TB)
-- 2021 MacBook Pro 14 inch (M1 Max, 64GB, 1TB)
-- ~~2020 MacBook Pro 13 inch (M1, 16GB, 1TB)~~
-- ~~2016 MacBook Pro 15 inch (i7, 16GB, 512GB)~~
 
 ## Accessories
 
@@ -47,7 +47,6 @@ I have moved my daily driver windows machine to a virtual machine running in my 
 | Microphone | [Shure MV7 USB Microphone](https://www.amazon.com/Shure-Microphone-Podcasting-Voice-Isolating-Technology/dp/B08G7RG9ML/) |
 | Webcam | [Logitech StreamCam](https://www.amazon.com/Logitech-Streamcam-Streaming-YouTube-Graphite/dp/B07TZT4Q89/) |
 | Headphones | [Bose QuietComfort 35 II Wireless Bluetooth Headphones](https://amzn.to/37UJ9ZP) |
-| Headphones | [Corsair Void RGB Elite Wireless Premium Gaming Headset](https://amzn.to/3aYRJbZ) |
 | Speakers | [Bose Companion 2 Series III Multimedia Speakers](https://amzn.to/38C77rP) |
 | Mouse | [Logitech MX Master 3](https://www.amazon.com/Logitech-Master-Advanced-Wireless-Mouse/dp/B07S395RWD) |
 | Keyboard | [Keychron K8 Keyboard](https://www.amazon.com/Keychron-Mechanical-Keyboard-Tenkeyless-Bluetooth/dp/B08B5WHYTT) |
