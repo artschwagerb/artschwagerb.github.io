@@ -2,7 +2,7 @@
 layout: post
 title: "OAuth2 Proxy with Okta"
 description: "Using OAuth2 Proxy with Okta"
-date: "2022-01-15"
+date: "2024-05-16"
 ---
 
 Do you have an application that doesnt support authentication?
