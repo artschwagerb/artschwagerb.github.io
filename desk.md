@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bootstrap
 title: 'My Desk'
 permalink: /desk/
 ---
