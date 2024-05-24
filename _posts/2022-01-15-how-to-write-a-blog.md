@@ -1,5 +1,5 @@
 ---
-layout: bootstrap
+layout: bootstrap_post
 title: "Welcome to Jekyll!"
 description: "Migrating to Jekyll"
 date: "2022-01-15"

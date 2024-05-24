@@ -1,5 +1,5 @@
 ---
-layout: bootstrap
+layout: bootstrap_post
 title: "OAuth2 Proxy with Okta"
 description: "Using OAuth2 Proxy with Okta"
 date: "2024-05-16"
