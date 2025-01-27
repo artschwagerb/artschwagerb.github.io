@@ -53,6 +53,7 @@ The desktop is connected to the same monitors, and I swap a usb hub with my keyb
 | Keyboard | [RK ROYAL KLUDGE 115 Carbon PBT Side Front Printed Keycaps](https://www.amazon.com/gp/product/B08397XX5G) |
 | Keyboard Wrist Cushion | [Imak A10161 Keyboard Wrist Cushion, Gray](https://amzn.to/3mWzuWE) |
 | USB C Hub | [uni USB Type C 8 in 1 Hub](https://www.amazon.com/gp/product/B07Q6YS7W2) |
+| 2.5gb Ethernet | [uni USB-C to Ethernet Adapter 2.5 Gbps](https://www.amazon.com/uni-Ethernet-Thunderbolt-Compatible-Aluminum/dp/B0C2H9HVH3) |
 | Stream Deck | [Elgato Stream Deck MK.2](https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G/) |
 | Key Light | [Elgato Key Light](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G/) |
 | Xbox One Wireless Controller | [Xbox One Special Edition Midnight Forces Wireless Controller](https://amzn.to/3hzHo7g) |
